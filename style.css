@@ -50,7 +50,7 @@ body {
 }
 
 body {
-    font-family: Times, Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     background-color: var(--bg);
     color: var(--text);
     display: grid;
